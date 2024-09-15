@@ -6,7 +6,7 @@ permalink: LINKS/
 
 ## WEEK 00 🍟
 | Topik | Penjelasan |
-|:---:|:---:|
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**OS242**](https://os.vlsm.org/) | Website OS |
 | [**Markdown Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | Referensi dalam menggunakan sintaks Markdown. |
 | [**Linux Commands 101**](https://github.com/bobbyiliev/101-linux-commands-ebook?tab=readme-ov-file#commands) | Referensi dalam menggunakan command Linux. |
@@ -26,13 +26,13 @@ Video yang menjelaskan bagaimana sistem operasi mengelola perangkat keras, aloka
 
 ## WEEK 01 🍔
 | Topik | Penjelasan |
-|:---:|:---:|
-| [*Vim Cheatsheet*](https://vim.rtorr.com/) | Referensi dalam menggunakan sintaks Vim. |
-| [*REGEX Cheatsheet*](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) | Referensi daftar REGEX lengkap. |
-| [*Bash Scripting Tutorial*](https://www.javatpoint.com/bash) | Tutorial lengkap mengenai bash. |
-| [*SED Command Tutorial*](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux) | Tutorial dasar penggunaan SED. |
-| [*AWK Command Tutorial*](https://linuxhandbook.com/awk-command-tutorial/) | Tutorial dasar penggunaan AWK. |
-| [*Shell Scripting Tutorial*](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/) | Tutorial lengkap mengenai shell scripting.  |
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
+| [**Vim Cheatsheet**](https://vim.rtorr.com/) | Referensi dalam menggunakan sintaks Vim. |
+| [**REGEX Cheatsheet**](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) | Referensi daftar REGEX lengkap. |
+| [**Bash Scripting Tutorial**](https://www.javatpoint.com/bash) | Tutorial lengkap mengenai bash. |
+| [**SED Command Tutorial**](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux) | Tutorial dasar penggunaan SED. |
+| [**AWK Command Tutorial**](https://linuxhandbook.com/awk-command-tutorial/) | Tutorial dasar penggunaan AWK. |
+| [**Shell Scripting Tutorial**](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/) | Tutorial lengkap mengenai shell scripting.  |
 
 1. [**What is a Virtual Machine?**](https://www.youtube.com/watch?v=mQP0wqNT_DI)
 Video ini menjelaskan konsep dasar virtualisasi dan mesin virtual, termasuk apa itu mesin virtual, bagaimana cara kerjanya, dan manfaatnya.
@@ -51,7 +51,7 @@ Video ini memberikan pengantar singkat tentang `regular expressions (regex)`, me
 
 ## WEEK 02 🍿
 | Topik | Penjelasan |
-|:---:|:---:|
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**SSH Tutorial**](https://www.niagahoster.co.id/blog/apa-itu-ssh/) | Artikel ini berisi tutorial yang menjelaskan tentang apa itu `SSH` dan bagaimana cara kerjanya.  |
 | [**RSA Tutorial**](https://www.simplilearn.com/tutorials/cryptography-tutorial/rsa-algorithm) | Artikel ini berisi tutorial tentang `RSA` dan cara kerjanya. |
 | [**SHASUM Command Tutorial**](https://www.javatpoint.com/bash) | Berisi tutorial penggunaan perintah `shasum`. Tutorial ini menyediakan screenshot setiap command ketika sedang dijalankan di terminal. |
