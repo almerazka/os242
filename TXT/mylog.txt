@@ -49,4 +49,4 @@ ZCZC W02 20 	L16 Assignment #6 -- Update “LINKS/” --
 ZCZC W02 05 	L16 Assignment #6 -- Update TXT/myupdate.txt --
 ZCZC W02 20 	L16 Assignment #6 -- TXT/mylog.txt related --
 ZCZC W02 30 	L17 Assignment #7 -- Finishing --
-
+ZCZC W02 60	L01 Scele : Answered POP Quiz
