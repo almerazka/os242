@@ -76,3 +76,28 @@ Video ini menjelaskan perbedaan antara enkripsi _simetris_ dan enkripsi _asimetr
 6. [**Manage File Permissions in Linux**](https://www.youtube.com/watch?v=ngJG6Ix5FR4)<br>
 Video ini menjelaskan cara menggunakan perintah `chmod` untuk mengubah izin pada sistem file Linux. 
 
+## WEEK 03 🍡
+| Topik | Penjelasan |
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
+| [**Memory Management in OS**](https://www.geeksforgeeks.org/memory-management-in-operating-system/) | Artikel ini berisi penjelasan tentang manajemen memori dalam sistem operasi, termasuk jenis memori, teknik alokasi, dan cara mengatasi fragmentasi. |
+| [**File System in OS**](https://www.geeksforgeeks.org/file-systems-in-operating-system/) | Artikel ini berisi penjelasan mengenai sistem berkas dalam sistem operasi, termasuk berbagai jenis sistem berkas, metode alokasi, manajemen ruang kosong, serta keuntungan dan kerugian dari penggunaan sistem berkas tersebut. |
+| [**Partitions, File Systems, Formatting, Mounting**](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html) | Artikel ini berisi tutorial lengkap mengenai _mounting_, _partitioning_, dan _formatting_ pada file system. |
+| [**Understanding File System**](https://www.geeksforgeeks.org/understanding-file-system/) | Artikel ini membahas tentang berbagai jenis sistem berkas yang digunakan dalam sistem operasi, seperti `FAT`, `NTFS`, `HFS`, dan `EXT`, serta kelebihan dan kekurangannya dalam berbagai kasus penggunaan. |
+
+1. [**Linux Directories Explained in 100 Seconds**](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Video ini menjelaskan tentang struktur dan hierarki sistem berkas Linux, termasuk direktori penting seperti bin, `s-bin`, `usr`, `etc`, `home`, `boot`, `dev`, `op`, `var`, dan `proc`, serta cara menavigasi dan berinteraksi dengan file dan biner dalam sistem operasi Linux.
+
+2. [**Linux File System Explained**](https://www.youtube.com/watch?v=A3G-3hp88mo)<br>
+Video ini merupakan episode kedua dari seri **Linux for Hackers**, di mana pembawa acara menjelaskan penggunaan dasar Linux, memberikan akses gratis ke lab Linux, serta memperkenalkan perintah-perintah dasar yang penting untuk navigasi dan pemahaman struktur sistem berkas di Linux.
+
+3. [**Introduction to Makefiles**](https://www.youtube.com/watch?v=_r7i5X0rXJk)<br>
+Video ini menunjukkan cara membuat file `Make` sederhana untuk mengompilasi program **C++** dengan mengatur target dan dependensi, serta menjelaskan pentingnya file `Make` dalam mengelola kompilasi file-file objek secara efisien.
+
+4. [**What's a Disk Partition?**](https://www.youtube.com/watch?v=udDkSdKLFGk)<br>
+Video ini menjelaskan apa itu `partisi disk`, menguraikan istilah terkait seperti _volume_ dan drive logis serta fisik, dan menunjukkan cara melihat partisi menggunakan manajemen disk di Windows, di mana satu _hard disk fisik_ dapat memiliki beberapa partisi logis yang dapat dialokasikan ruang terpisah.
+
+5. [**Files & File Systems:**](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+Video ini membahas cara kerja berkas komputer dan sistem berkas, menjelaskan berbagai format berkas seperti `TXT`, `WAV`, dan `BMP`, serta pentingnya metadata dalam mengorganisasi dan menginterpretasi data di dalam berkas tersebut.
+
+6. [**How to backup and Restore Virtualbox Machines?**](https://www.youtube.com/watch?v=HkGJr5BJg5g)<br>
+Tutorial ini menjelaskan langkah-langkah untuk membuat cadangan dan memulihkan mesin virtual di VirtualBox dengan menggunakan opsi _ekspor_ untuk menyimpan file `OVA` dan _mengimpor_ kembali file tersebut untuk mengembalikan sistem ke keadaan sebelumnya.
