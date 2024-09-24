@@ -79,8 +79,8 @@ Video ini menjelaskan cara menggunakan perintah `chmod` untuk mengubah izin pada
 ## WEEK 03 🍡
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
-| [**Memory Management in OS**](https://www.geeksforgeeks.org/memory-management-in-operating-system/) | Artikel ini berisi penjelasan tentang manajemen memori dalam sistem operasi, termasuk jenis memori, teknik alokasi, dan cara mengatasi fragmentasi. |
-| [**File System in OS**](https://www.geeksforgeeks.org/file-systems-in-operating-system/) | Artikel ini berisi penjelasan mengenai sistem berkas dalam sistem operasi, termasuk berbagai jenis sistem berkas, metode alokasi, manajemen ruang kosong, serta keuntungan dan kerugian dari penggunaan sistem berkas tersebut. |
+| [**Memory Management**](https://www.geeksforgeeks.org/memory-management-in-operating-system/) | Artikel ini berisi penjelasan tentang manajemen memori dalam sistem operasi, termasuk jenis memori, teknik alokasi, dan cara mengatasi fragmentasi. |
+| [**File System**](https://www.geeksforgeeks.org/file-systems-in-operating-system/) | Artikel ini berisi penjelasan mengenai sistem berkas dalam sistem operasi, termasuk berbagai jenis sistem berkas, metode alokasi, manajemen ruang kosong, serta keuntungan dan kerugian dari penggunaan sistem berkas tersebut. |
 | [**Partitions, File Systems, Formatting, Mounting**](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html) | Artikel ini berisi tutorial lengkap mengenai _mounting_, _partitioning_, dan _formatting_ pada file system. |
 | [**Understanding File System**](https://www.geeksforgeeks.org/understanding-file-system/) | Artikel ini membahas tentang berbagai jenis sistem berkas yang digunakan dalam sistem operasi, seperti `FAT`, `NTFS`, `HFS`, dan `EXT`, serta kelebihan dan kekurangannya dalam berbagai kasus penggunaan. |
 
