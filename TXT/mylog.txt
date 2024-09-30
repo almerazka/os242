@@ -66,18 +66,4 @@ ZCZC W03 05 	L15 Assignment #5 -- Update TXT/myupdate.txt --
 ZCZC W03 20 	L15 Assignment #5 -- Update TXT/mylog.txt  --
 ZCZC W03 10 	L15 Assignment #5 -- Update TXT/myrank.txt  --
 ZCZC W03 30 	L16 Assignment #6 -- Finishing --
-# ===============================================================
-ZCZC W04 10 	L01 Scele/Discord related (checking new assignments)
-ZCZC W04 100 	L02 CLASSROOM related (Attended class on Wed 25 Sep 2024)
-ZCZC W04 60	L61 Restore/Backup Virtual Box
-ZCZC W04 120 	L32 YouTube: watching OS related
-ZCZC W04 120 	L02 CLASSROOM related (Class Substitute on Mon 30 Sep 2024, Watching OS Videos)
-ZCZC W04 90	L11 Assignment #1 -- Readings and Demos --
-ZCZC W04 60	L12 Assignment #2 -- Backup Your SSH and GPG Keys! --
-ZCZC W04 90	L13 Assignment #3 -- Assignment Script --
-ZCZC W04 60	L14 Assignment #4 -- Compiling TLPI --
-ZCZC W04 30 	L15 Assignment #5 -- Update “LINKS/” --
-ZCZC W04 05 	L15 Assignment #5 -- Update TXT/myupdate.txt --
-ZCZC W04 10 	L15 Assignment #5 -- Update TXT/myrank.txt  --
-ZCZC W04 30 	L15 Assignment #5 -- Update TXT/mylog.txt  --
-ZCZC W04 30 	L16 Assignment #6 -- Finishing --
+ZCZC W03 60	L01 Scele : Answered POP Quiz
