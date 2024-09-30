@@ -106,10 +106,10 @@ Tutorial ini menjelaskan langkah-langkah untuk membuat cadangan dan memulihkan m
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**History of C Language**](https://www.javatpoint.com/history-of-c-language) | Tutorial ini menguraikan `konsep-konsep` penting `bahasa C` secara menyeluruh. |
-| [**Non-Contiguous Allocation in Operating System**](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/) | Artikel ini berisi tutorial tentang alokasi `non-bersebelahan` dalam sistem operasi dan cara kerjanya. |
+| [**Non-Contiguous Allocation in OS**](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/) | Artikel ini berisi tutorial tentang alokasi `non-bersebelahan` dalam sistem operasi dan cara kerjanya. |
 | [**Contiguous Memory Management Techniques**](https://www.javatpoint.com/bash) | Artikel ini berisi penjelasan tentang teknik manajemen memori `bersebelahan` dan cara implementasinya dalam sistem operasi. |
-| [**Fixed (or static) Partitioning in Operating System**](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/) | Artikel ini menjelaskan tentang Partisi Tetap (statis) dalam sistem operasi, yaitu teknik alokasi memori yang membagi memori fisik menjadi wilayah berukuran tetap yang dialokasikan untuk proses tertentu. |
-| [**Variable (or Dynamic) Partitioning in Operating System**](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/) | Artikel ini menjelaskan tentang Partisi Variabel (atau Dinamis) dalam sistem operasi, khususnya dalam konteks manajemen memori. |
+| [**Fixed (or static) Partitioning**](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/) | Artikel ini menjelaskan tentang Partisi Tetap (statis) dalam sistem operasi, yaitu teknik alokasi memori yang membagi memori fisik menjadi wilayah berukuran tetap yang dialokasikan untuk proses tertentu. |
+| [**Variable (or Dynamic) Partitioning**](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/) | Artikel ini menjelaskan tentang Partisi Variabel (atau Dinamis) dalam sistem operasi, khususnya dalam konteks manajemen memori. |
 | [**Paging in Operating System**](https://www.geeksforgeeks.org/paging-in-operating-system/) | Artikel ini menjelaskan tentang paging dalam sistem operasi, sebuah teknik manajemen memori yang memungkinkan alokasi memori fisik tanpa memerlukan pengalokasian berkesinambungan. |
 
 1. [**Byte Ordering: Little-Endian vs. Big-Endian**](https://www.youtube.com/watch?v=jhErugDB-34)<br>
