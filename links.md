@@ -101,3 +101,28 @@ Video ini membahas cara kerja berkas komputer dan sistem berkas, menjelaskan ber
 
 6. [**How to backup and Restore Virtualbox Machines?**](https://www.youtube.com/watch?v=HkGJr5BJg5g)<br>
 Tutorial ini menjelaskan langkah-langkah untuk membuat cadangan dan memulihkan mesin virtual di VirtualBox dengan menggunakan opsi _ekspor_ untuk menyimpan file `OVA` dan _mengimpor_ kembali file tersebut untuk mengembalikan sistem ke keadaan sebelumnya.
+
+## WEEK 04 🍭
+| Topik | Penjelasan |
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
+| [**History of C Language**](https://www.javatpoint.com/history-of-c-language) | Tutorial ini menguraikan `konsep-konsep` penting `bahasa C` secara menyeluruh. |
+| [**Non-Contiguous Allocation in Operating System**](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/) | Artikel ini berisi tutorial tentang alokasi `non-bersebelahan` dalam sistem operasi dan cara kerjanya. |
+| [**Contiguous Memory Management Techniques**](https://www.javatpoint.com/bash) | Artikel ini berisi penjelasan tentang teknik manajemen memori `bersebelahan` dan cara implementasinya dalam sistem operasi. |
+| [**Fixed (or static) Partitioning in Operating System**](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/) | Artikel ini menjelaskan tentang Partisi Tetap (statis) dalam sistem operasi, yaitu teknik alokasi memori yang membagi memori fisik menjadi wilayah berukuran tetap yang dialokasikan untuk proses tertentu. |
+| [**Variable (or Dynamic) Partitioning in Operating System**](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/) | Artikel ini menjelaskan tentang Partisi Variabel (atau Dinamis) dalam sistem operasi, khususnya dalam konteks manajemen memori. |
+| [**Paging in Operating System**](https://www.geeksforgeeks.org/paging-in-operating-system/) | Artikel ini menjelaskan tentang paging dalam sistem operasi, sebuah teknik manajemen memori yang memungkinkan alokasi memori fisik tanpa memerlukan pengalokasian berkesinambungan. |
+
+1. [**Byte Ordering: Little-Endian vs. Big-Endian**](https://www.youtube.com/watch?v=jhErugDB-34)<br>
+Video ini menjelaskan bagaimana kuantitas `multibyte` disimpan dalam memori menggunakan dua urutan byte utama, yaitu `little-endian` dan `big-endian`, yang penting saat mentransfer data antara sistem dengan konvensi berbeda.
+
+2. [**SCP Command to Transfer Files**](https://www.youtube.com/watch?v=fmMg6cyww14)<br>
+Video ini menjelaskan cara menggunakan perintah `SCP` untuk mentransfer file atau direktori antara mesin lokal dan server remote, termasuk `penggunaan opsi rekursif`, `penyesuaian port`, dan `otentikasi kunci publik`.
+
+3. [**Introduction to Pointers in C**](https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
+Video ini _memperkenalkan konsep pointer dalam C_ sebagai variabel yang menyimpan alamat awal dari objek yang ditunjuk, dengan contoh menyimpan alamat variabel `integer` dalam memori.
+
+4. [**Pointers in C for Absolute Beginners**](https://www.youtube.com/watch?v=MIL2BK02X8A)<br>
+Video ini membahas keuntungan dan kerugian dari menggunakan `pointer` sebagai argumen dalam fungsi. Disana dijelaskan `passing by value` lebih aman tetapi memiliki overhead memori yang lebih besar, sementara `passing by reference` lebih efisien dan memungkinkan akses langsung ke memori, meskipun dapat menyebabkan kode yang lebih sulit dibaca.
+
+5. [**Introduction to Virtual Memory**](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br>
+Video ini menjelaskan virtual memory sebagai lapisan `indirection` yang memetakan alamat program ke  `RAM`, memberikan fleksibilitas dan keamanan serta mengatasi keterbatasan ruang memori dengan menggunakan `disk`.
