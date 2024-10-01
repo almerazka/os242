@@ -84,3 +84,4 @@ ZCZC W04 05 	L15 Assignment #5 -- Update TXT/myupdate.txt --
 ZCZC W04 10 	L15 Assignment #5 -- Update TXT/myrank.txt  --
 ZCZC W04 30 	L15 Assignment #5 -- Update TXT/mylog.txt  --
 ZCZC W04 30 	L16 Assignment #6 -- Finishing --
+ZCZC W04 60     L01 Scele : Answered POP Quiz
