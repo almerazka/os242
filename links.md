@@ -1,3 +1,4 @@
+
 ---
 permalink: LINKS/
 ---
@@ -127,3 +128,29 @@ Video ini membahas keuntungan dan kerugian dari menggunakan `pointer` sebagai ar
 5. [**Introduction to Virtual Memory**](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br>
 Video ini menjelaskan virtual memory sebagai lapisan `indirection` yang memetakan alamat program ke  `RAM`, memberikan fleksibilitas dan keamanan serta mengatasi keterbatasan ruang memori dengan menggunakan `disk`.
 
+## WEEK 05 🍫
+| Topik | Penjelasan |
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
+| [**Virtual Memory in OS**](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) | Artikel ini menjelaskan tentang `teknik manajemen memori` yang menggunakan penyimpanan sekunder untuk memperluas memori fisik. |
+| [**Translation Look Aside Buffer (TLB)**](https://www.javatpoint.com/os-translation-look-aside-buffer) | Artikel ini menjelaskan tentang `Cache` yang mempercepat akses ke tabel halaman dalam sistem _paging_.|
+| [**What is Demand Paging in OS?**](https://www.javatpoint.com/os-demand-paging) | Artikel ini menjelaskan konsep Demand Paging dalam sistem operasi, di mana halaman hanya dimuat ke memori utama saat dibutuhkan, serta membahas istilah terkait seperti _page fault_ dan _thrashing_.|
+| [**Page Table Entries**](https://www.geeksforgeeks.org/page-table-entries-in-page-table/) | Artikel ini menjelaskan secara mendetail tentang struktur dan fungsi `Entri Tabel Halaman (PTE)` dalam sistem operasi, bagaimana `PTE` bekerja dalam manajemen memori, serta informasi yang disimpan dalam setiap entri. |
+| [**Page Replacement Algorithms**](https://www.javatpoint.com/os-page-replacement-algorithms) | Artikel ini menjelaskan tentang algoritma penggantian halaman `(Page Replacement Algorithms)` secara umum. |
+| [**Page Replacement**](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) | Artikel ini menjelaskan tentang berbagai algoritma penggantian halaman dalam sistem operasi, termasuk teknik `FIFO`, `Optimal`, `LRU`, dan `MRU` untuk mengelola memori secara efisien saat terjadi _page fault_. |
+| [**Allocation of frames**](https://www.geeksforgeeks.org/operating-system-allocation-frames/) | Artikel ini menjelaskan tentang algoritma `alokasi frame` dalam sistem operasi, termasuk metode alokasi yang sama, proporsional, serta penggantian _frame_ global dan lokal untuk mengelola memori. |
+| [**Techniques to handle Thrashing**](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/) | Artikel ini menjelaskan tentang teknik untuk mengatasi `thrashing`, termasuk _penyebab_ dan _model working set_. |
+| [**Segmentation in OS**](https://www.javatpoint.com/os-segmentation) | Artikel ini menjelaskan tentang teknik `manajemen memori` yang _membagi memori_ menjadi segmen variabel dan _penerjemahan alamat_. |
+
+1. [**But, what is Virtual Memory?**](https://www.youtube.com/watch?v=A9WLYbE0p-I&t=450s)<br>
+Video ini berisi penjelasan tentang `cara kerja memori virtual`, termasuk masalah yang diselesaikannya, seperti _kekurangan memori_, _fragmentasi memori_, dan _keamanan_, serta _implementasi_ dan proses peta halaman _(page table)_ dalam sistem operasi.
+
+2. [**TLB In Virtual Memory**](https://www.youtube.com/watch?v=ai8DqkEMttw)<br>
+Video ini berisi penjelasan tentang `Translation Lookaside Buffer (TLB)`, cara kerjanya dalam mengurangi waktu akses memori virtual dengan menyimpan entri halaman yang baru-baru ini diakses, serta proses yang terjadi saat terjadi _TLB hit_ dan _TLB miss_.
+
+3. [**How computer memory works?**](https://www.youtube.com/watch?v=p3q5zWCw8J4)<br>
+Video ini berisi penjelasan tentang `peran memori` dalam komputer, termasuk `jenis-jenis` memori seperti _RAM_, _cache_, dan penyimpanan jangka panjang, serta tantangan dalam mempertahankan data dan kecepatan akses.
+
+4. [**Virtual To Physical Translation**](https://www.youtube.com/watch?v=l7HoguhFVQ4)<br>
+Video ini menjelaskan proses `translasi alamat virtual ke alamat fisik` dalam memori komputer, di mana alamat virtual dibagi menjadi _offset_  halaman dan _nomor_ halaman virtual yang digunakan untuk mengakses tabel halaman dan menghasilkan alamat fisik.
+
+#### REV: Mon 07 Oct 2024 12:40
