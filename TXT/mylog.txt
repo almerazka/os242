@@ -112,7 +112,7 @@ ZCZC W06 90	L11 Assignment #1 -- Readings and Demos --
 ZCZC W06 60	L12 Assignment #2 -- Backup Your SSH and GPG Keys! --
 ZCZC W06 60	L13 Assignment #3 -- Assignment Script --
 ZCZC W06 90	L14 Assignment #4 -- Fork() and Shared Memory --
-ZCZC W06 120  L01 Scele : Answered POP Quiz
+ZCZC W06 120  	L01 Scele : Answered POP Quiz
 ZCZC W06 30 	L15 Assignment #5 -- Update “LINKS/” --
 ZCZC W06 05 	L15 Assignment #5 -- Update TXT/myupdate.txt --
 ZCZC W06 10 	L15 Assignment #5 -- Update TXT/myrank.txt  --

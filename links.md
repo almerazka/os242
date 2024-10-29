@@ -172,7 +172,7 @@ Playlist ini berisi tutorial tentang pengelolaan proses di `Unix` menggunakan ba
 2. [**fork() and exec() System Calls**](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
 Video ini berisi penjelasan tentang sistem call `fork` dan `exec` pada _Linux_, termasuk cara kerjanya melalui contoh program dalam bahasa C.
 
-3. [**Threading Issues [`fork()` & `exec()` System Calls]**](https://www.youtube.com/watch?v=o2Sf0GHWpmk)<br>
+3. [**Threading Issues `fork()` & `exec()` System Calls**](https://www.youtube.com/watch?v=o2Sf0GHWpmk)<br>
 Video ini membahas masalah yang muncul dengan sistem panggilan `fork` dan `exec` dalam pemrograman _multi-threading_, serta menjelaskan kapan sebaiknya menggunakan masing-masing versi `fork`.
 
 #### REV: Mon 29 Oct 2024 15:25
