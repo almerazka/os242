@@ -102,3 +102,19 @@ ZCZC W05 05 	L16 Assignment #6 -- Update TXT/myupdate.txt --
 ZCZC W05 10 	L16 Assignment #6 -- Update TXT/myrank.txt  --
 ZCZC W05 30 	L16 Assignment #6 -- Update TXT/mylog.txt  --
 ZCZC W05 30 	L15 Assignment #6 -- Finishing --
+# ===============================================================
+ZCZC W06 10 	L01 Scele/Discord related (checking new assignments)
+ZCZC W06 100 	L02 CLASSROOM related (Attended class on Wed 23 Oct 2024)
+ZCZC W06 180 	L32 YouTube: watching OS related
+ZCZC W06 100 	L02 CLASSROOM related (Attended class on Mon 28 Oct 2024)
+ZCZC W06 60	L61 Restore/Backup Virtual Box
+ZCZC W06 90	L11 Assignment #1 -- Readings and Demos --
+ZCZC W06 60	L12 Assignment #2 -- Backup Your SSH and GPG Keys! --
+ZCZC W06 60	L13 Assignment #3 -- Assignment Script --
+ZCZC W06 90	L14 Assignment #4 -- Fork() and Shared Memory --
+ZCZC W06 120  L01 Scele : Answered POP Quiz
+ZCZC W06 30 	L15 Assignment #5 -- Update “LINKS/” --
+ZCZC W06 05 	L15 Assignment #5 -- Update TXT/myupdate.txt --
+ZCZC W06 10 	L15 Assignment #5 -- Update TXT/myrank.txt  --
+ZCZC W06 30 	L15 Assignment #5 -- Update TXT/mylog.txt  --
+ZCZC W06 30 	L15 Assignment #5 -- Finishing --
