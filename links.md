@@ -152,4 +152,27 @@ Video ini berisi penjelasan tentang `peran memori` dalam komputer, termasuk `jen
 4. [**Virtual To Physical Translation**](https://www.youtube.com/watch?v=l7HoguhFVQ4)<br>
 Video ini menjelaskan proses `translasi alamat virtual ke alamat fisik` dalam memori komputer, di mana alamat virtual dibagi menjadi _offset_  halaman dan _nomor_ halaman virtual yang digunakan untuk mengakses tabel halaman dan menghasilkan alamat fisik.
 
-#### REV: Mon 07 Oct 2024 13:25
+## WEEK 06 🍨
+| Topik | Penjelasan |
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
+| [**OS Process**](https://www.tutorialspoint.com/operating_system/os_processes.htm) | Artikel ini menjelaskan bahwa Process adalah program yang sedang dieksekusi, dengan komponen utama seperti _stack_, _heap_, _text_, dan _data_. |
+| [**Operasi pada Proses**](https://www.geeksforgeeks.org/operations-on-processes/) | Artikel ini menjelaskan bahwa Operasi pada Proses mencakup pembuatan, penjadwalan, pemblokiran, pendahuluan, dan penghentian, yang penting untuk mengelola eksekusi program. |
+| [**Process Scheduling**](https://www.javatpoint.com/os-demand-paging) | Artikel ini membahas Process Scheduling yang mengatur pergantian proses di `CPU` untuk efisiensi, mencakup dua kategori _(Non-preemptive dan Preemptive)_, pengelolaan antrian proses, model dua status, serta jenis-jenis scheduler _(Long-Term, Short-Term, Medium-Term)_. |
+| [**Multithreading Models in OS**](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) | Artikel ini menjelaskan konsep _Multithreading_ dalam OS, di mana tugas dibagi menjadi beberapa thread yang dapat berjalan bersamaan. |
+| [**Threading Issues**](https://www.tutorialspoint.com/what-are-threading-issues) | Desain program multithreading memiliki beberapa tantangan yang perlu dipertimbangkan, di antaranya: pengelolaan `fork()` dan `exec()` system calls, _Signal Handling_, _Thread Cancellation_, serta _Thread Pools_. |
+| [**Fork System Call in OS**](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) | Fork system call adalah operasi di sistem operasi yang memungkinkan proses membuat duplikat dirinya (child process) untuk mendukung eksekusi paralel, multitasking, dan efisiensi memori melalui teknik copy-on-write, meskipun dapat menyebabkan overhead memori dan kompleksitas komunikasi antar proses. |
+| [**Dynamic Memory Allocation**](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) | Artikel ini berisi alokasi memori dinamis dalam C memungkinkan perubahan ukuran struktur data selama runtime menggunakan fungsi `malloc()`, `calloc()`, `free()`, dan `realloc()` yang memudahkan manajemen memori secara efisien.|
+| [**Concurrency in Operating System**](https://www.tutorialspoint.com/concurrency-in-operating-system) | Artikel ini menjelaskan tentang konsep concurrency dalam sistem operasi, yang merupakan kemampuan sistem untuk menangani beberapa tugas atau proses secara bersamaan.|
+| [**Difference between Concurrency and Parallelism**](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/) | Artikel ini berisi penjelasan mengenai perbedaan antara konkurensi dan paralelisme dalam komputasi.|
+| [**Fork, Exec, Wait and Exit**](https://percona.community/blog/2021/01/04/fork-exec-wait-and-exit/) | Artikel ini menjelaskan tentang siklus hidup proses di Unix, meliputi penggunaan `fork()`, `exec()`, `wait()`, dan `exit()` untuk mengelola pembuatan, eksekusi, dan penghentian proses. |
+
+1. [**Unix Processes in OS**](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&feature=shared)<br>
+Playlist ini berisi tutorial tentang pengelolaan proses di `Unix` menggunakan bahasa C, mencakup penggunaan fungsi seperti `fork()`, `wait()`, `exec()`, `pipes`, `signal`, dan berbagai cara komunikasi antarproses.
+
+2. [**fork() and exec() System Calls**](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
+Video ini berisi penjelasan tentang sistem call `fork` dan `exec` pada _Linux_, termasuk cara kerjanya melalui contoh program dalam bahasa C.
+
+3. [**Threading Issues [`fork()` & `exec()` System Calls]**](https://www.youtube.com/watch?v=o2Sf0GHWpmk)<br>
+Video ini membahas masalah yang muncul dengan sistem panggilan `fork` dan `exec` dalam pemrograman _multi-threading_, serta menjelaskan kapan sebaiknya menggunakan masing-masing versi `fork`.
+
+#### REV: Mon 29 Oct 2024 15:25
