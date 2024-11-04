@@ -175,4 +175,23 @@ Video ini berisi penjelasan tentang sistem call `fork` dan `exec` pada _Linux_, 
 3. [**Threading Issues `fork()` & `exec()` System Calls**](https://www.youtube.com/watch?v=o2Sf0GHWpmk)<br>
 Video ini membahas masalah yang muncul dengan sistem panggilan `fork` dan `exec` dalam pemrograman _multi-threading_, serta menjelaskan kapan sebaiknya menggunakan masing-masing versi `fork`.
 
-#### REV: Mon 29 Oct 2024 15:25
+## WEEK 07 🥩
+| Topik | Penjelasan |
+|:--------------------------------|------------------------------------------------------------------------------------------------------|
+| [**Introduction of Process Synchronization**](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) | Artikel ini menjelaskan pentingnya sinkronisasi proses dalam sistem multiproses untuk menghindari kondisi persaingan dan memastikan akses yang aman terhadap sumber daya bersama menggunakan teknik seperti _semaphore_ dan _critical section_. |
+| [**Critical Section in Synchronization**](https://www.geeksforgeeks.org/g-fact-70/) | Artikel ini membahas konsep _critical section_, yaitu segmen kode yang diakses oleh beberapa `thread` atau proses secara bersamaan dan memerlukan sinkronisasi untuk menghindari kondisi balapan, dengan penggunaan mekanisme sinkronisasi seperti `semaphore` dan `mutex` untuk memastikan bahwa hanya satu thread atau proses yang dapat menjalankan _critical section_ pada satu waktu. |
+| [**Semaphores in Process Synchronization**](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) | Artikel ini membahas `semaphore` sebagai mekanisme sinkronisasi dalam ilmu komputer yang efektif dalam mengatur akses proses terhadap sumber daya bersama melalui dua operasi fundamental, yaitu `P (Wait)` dan `V (Signal)`, serta mengeksplorasi kelebihan, kekurangan, dan contoh-contoh masalah klasik yang dapat dipecahkan dengan penerapan `semaphore`. |
+| [**Hardware Synchronization Algorithms**](https://www.geeksforgeeks.org/hardware-synchronization-algorithms-unlock-and-lock-test-and-set-swap/) | Artikel ini membahas algoritma sinkronisasi perangkat keras yang efisien dalam mengatasi masalah sinkronisasi proses, dengan fokus pada tiga metode utama yaitu `Test and Set`, `Swap`, serta `Unlock and Lock`. |
+| [**Classical Problems of Synchronization**](https://www.geeksforgeeks.org/classical-problems-of-synchronization-with-semaphore-solution/) | Artikel ini membahas pentingnya sinkronisasi dalam sistem operasi untuk mengelola akses ke sumber daya bersama di antara proses-proses yang berjalan secara bersamaan, dengan menggunakan `semaphores` sebagai solusi klasik untuk sejumlah masalah sinkronisasi terkenal, seperti _Bounded Buffer_, _Dining Philosophers_, _Readers-Writers_, dan _Sleeping Barber_. |
+| [**Difference between Deadlock and Starvation in OS**](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) | Artikel ini membahas perbedaan antara Deadlock dan Starvation dalam sistem operasi. |
+| [**Deadlock Prevention And Avoidance**](https://www.geeksforgeeks.org/deadlock-prevention/) | Artikel ini membahas tentang pencegahan dan penghindaran `deadlock` dalam sistem operasi. |
+| [**Deadlock Detection And Recovery**](https://www.geeksforgeeks.org/deadlock-detection-recovery/) | Artikel ini menjelaskan mekanisme deteksi dan pemulihan kebuntuan dalam sistem operasi. |
+
+1. [**Process Synchronization**](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&feature=shared)<br>
+Playlist ini berisi rangkaian tutorial lengkap mengenai sinkronisasi proses di sistem operasi, mulai dari dasar-dasar hingga solusi masalah-masalah umum, cocok untuk memperdalam pemahaman mengenai tantangan sinkronisasi dan cara mengelolanya dengan berbagai metode dan algoritma.
+
+2. [**Deadlock - Operating System**](https://youtube.com/playlist?list=PLKvlVXf2hXAPrRXE_B8LWW25r5DJVe7Yv&feature=shared)<br>
+Playlist ini berisi video tentang konsep deadlock pada sistem operasi, syarat terjadinya `deadlock`, pencegahan, dan pendekatan untuk menghindari `deadlock`.
+
+
+#### REV: Mon 05 Nov 2024 00:50
