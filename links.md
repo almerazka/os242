@@ -6,7 +6,7 @@ permalink: LINKS/
 
 ## WEEK 00 🍟
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|--------------------------------------|--------------------------------------------------------------------------------------------------------|
 | [**OS242**](https://os.vlsm.org/) | Website OS |
 | [**Markdown Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | Referensi dalam menggunakan sintaks Markdown. |
 | [**Linux Commands 101**](https://github.com/bobbyiliev/101-linux-commands-ebook?tab=readme-ov-file#commands) | Referensi dalam menggunakan command Linux. |
