@@ -5,8 +5,9 @@ permalink: LINKS/
 # LINKS
 
 ## WEEK 00 🍟
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**OS242**](https://os.vlsm.org/) | Website OS |
 | [**Markdown Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | Referensi dalam menggunakan sintaks Markdown. |
 | [**Linux Commands 101**](https://github.com/bobbyiliev/101-linux-commands-ebook?tab=readme-ov-file#commands) | Referensi dalam menggunakan command Linux. |
@@ -25,8 +26,9 @@ Video tutorial tentang cara menggunakan `nano`, editor teks dasar di Linux.
 Video yang menjelaskan bagaimana sistem operasi mengelola perangkat keras, alokasi sumber daya, serta memberikan antarmuka untuk pengguna. 
 
 ## WEEK 01 🍔
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**Vim Cheatsheet**](https://vim.rtorr.com/) | Referensi dalam menggunakan sintaks Vim. |
 | [**REGEX Cheatsheet**](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) | Referensi daftar REGEX lengkap. |
 | [**Bash Scripting Tutorial**](https://www.javatpoint.com/bash) | Tutorial lengkap mengenai bash. |
@@ -50,8 +52,9 @@ Video yang menjelaskan alasan mengapa menggunakan Vim bisa meningkatkan produkti
 Video ini memberikan pengantar singkat tentang `regular expressions (regex)`, mencakup dasar-dasar seperti sintaks, cara membuat pola, dan contoh penggunaannya dalam mencari dan mengganti teks. Cocok untuk pemula yang ingin memahami regex dengan cepat.
 
 ## WEEK 02 🍿
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**SSH Tutorial**](https://www.niagahoster.co.id/blog/apa-itu-ssh/) | Artikel ini berisi tutorial yang menjelaskan tentang apa itu `SSH` dan bagaimana cara kerjanya.  |
 | [**RSA Tutorial**](https://www.simplilearn.com/tutorials/cryptography-tutorial/rsa-algorithm) | Artikel ini berisi tutorial tentang `RSA` dan cara kerjanya. |
 | [**SHASUM Command Tutorial**](https://www.javatpoint.com/bash) | Berisi tutorial penggunaan perintah `shasum`. Tutorial ini menyediakan screenshot setiap command ketika sedang dijalankan di terminal. |
@@ -77,8 +80,9 @@ Video ini menjelaskan perbedaan antara enkripsi _simetris_ dan enkripsi _asimetr
 Video ini menjelaskan cara menggunakan perintah `chmod` untuk mengubah izin pada sistem file Linux. 
 
 ## WEEK 03 🍡
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**Memory Management**](https://www.geeksforgeeks.org/memory-management-in-operating-system/) | Artikel ini berisi penjelasan tentang manajemen memori dalam sistem operasi, termasuk jenis memori, teknik alokasi, dan cara mengatasi fragmentasi. |
 | [**File System**](https://www.geeksforgeeks.org/file-systems-in-operating-system/) | Artikel ini berisi penjelasan mengenai sistem berkas dalam sistem operasi, termasuk berbagai jenis sistem berkas, metode alokasi, manajemen ruang kosong, serta keuntungan dan kerugian dari penggunaan sistem berkas tersebut. |
 | [**Partitions, File Systems, Formatting, Mounting**](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html) | Artikel ini berisi tutorial lengkap mengenai _mounting_, _partitioning_, dan _formatting_ pada file system. |
@@ -103,8 +107,9 @@ Video ini membahas cara kerja berkas komputer dan sistem berkas, menjelaskan ber
 Tutorial ini menjelaskan langkah-langkah untuk membuat cadangan dan memulihkan mesin virtual di VirtualBox dengan menggunakan opsi _ekspor_ untuk menyimpan file `OVA` dan _mengimpor_ kembali file tersebut untuk mengembalikan sistem ke keadaan sebelumnya.
 
 ## WEEK 04 🍭
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**History of C Language**](https://www.javatpoint.com/history-of-c-language) | Tutorial ini menguraikan `konsep-konsep` penting `bahasa C` secara menyeluruh. |
 | [**Non-Contiguous Allocation in OS**](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/) | Artikel ini berisi tutorial tentang alokasi `non-bersebelahan` dalam sistem operasi dan cara kerjanya. |
 | [**Contiguous Memory Management Techniques**](https://www.javatpoint.com/bash) | Artikel ini berisi penjelasan tentang teknik manajemen memori `bersebelahan` dan cara implementasinya dalam sistem operasi. |
@@ -128,8 +133,9 @@ Video ini membahas keuntungan dan kerugian dari menggunakan `pointer` sebagai ar
 Video ini menjelaskan virtual memory sebagai lapisan `indirection` yang memetakan alamat program ke  `RAM`, memberikan fleksibilitas dan keamanan serta mengatasi keterbatasan ruang memori dengan menggunakan `disk`.
 
 ## WEEK 05 🍫
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**Virtual Memory in OS**](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) | Artikel ini menjelaskan tentang `teknik manajemen memori` yang menggunakan penyimpanan sekunder untuk memperluas memori fisik. |
 | [**Translation Look Aside Buffer (TLB)**](https://www.javatpoint.com/os-translation-look-aside-buffer) | Artikel ini menjelaskan tentang `Cache` yang mempercepat akses ke tabel halaman dalam sistem _paging_.|
 | [**What is Demand Paging in OS?**](https://www.javatpoint.com/os-demand-paging) | Artikel ini menjelaskan konsep Demand Paging dalam sistem operasi, di mana halaman hanya dimuat ke memori utama saat dibutuhkan, serta membahas istilah terkait seperti _page fault_ dan _thrashing_.|
@@ -153,8 +159,9 @@ Video ini berisi penjelasan tentang `peran memori` dalam komputer, termasuk `jen
 Video ini menjelaskan proses `translasi alamat virtual ke alamat fisik` dalam memori komputer, di mana alamat virtual dibagi menjadi _offset_  halaman dan _nomor_ halaman virtual yang digunakan untuk mengakses tabel halaman dan menghasilkan alamat fisik.
 
 ## WEEK 06 🍨
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**OS Process**](https://www.tutorialspoint.com/operating_system/os_processes.htm) | Artikel ini menjelaskan bahwa Process adalah program yang sedang dieksekusi, dengan komponen utama seperti _stack_, _heap_, _text_, dan _data_. |
 | [**Operasi pada Proses**](https://www.geeksforgeeks.org/operations-on-processes/) | Artikel ini menjelaskan bahwa Operasi pada Proses mencakup pembuatan, penjadwalan, pemblokiran, pendahuluan, dan penghentian, yang penting untuk mengelola eksekusi program. |
 | [**Process Scheduling**](https://www.javatpoint.com/os-demand-paging) | Artikel ini membahas Process Scheduling yang mengatur pergantian proses di `CPU` untuk efisiensi, mencakup dua kategori _(Non-preemptive dan Preemptive)_, pengelolaan antrian proses, model dua status, serta jenis-jenis scheduler _(Long-Term, Short-Term, Medium-Term)_. |
@@ -176,8 +183,9 @@ Video ini berisi penjelasan tentang sistem call `fork` dan `exec` pada _Linux_, 
 Video ini membahas masalah yang muncul dengan sistem panggilan `fork` dan `exec` dalam pemrograman _multi-threading_, serta menjelaskan kapan sebaiknya menggunakan masing-masing versi `fork`.
 
 ## WEEK 07 🥩
+
 | Topik | Penjelasan |
-|:--------------------------------|------------------------------------------------------------------------------------------------------|
+|:---|:---|
 | [**Introduction of Process Synchronization**](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) | Artikel ini menjelaskan pentingnya sinkronisasi proses dalam sistem multiproses untuk menghindari kondisi persaingan dan memastikan akses yang aman terhadap sumber daya bersama menggunakan teknik seperti _semaphore_ dan _critical section_. |
 | [**Critical Section in Synchronization**](https://www.geeksforgeeks.org/g-fact-70/) | Artikel ini membahas konsep _critical section_, yaitu segmen kode yang diakses oleh beberapa `thread` atau proses secara bersamaan dan memerlukan sinkronisasi untuk menghindari kondisi balapan, dengan penggunaan mekanisme sinkronisasi seperti `semaphore` dan `mutex` untuk memastikan bahwa hanya satu thread atau proses yang dapat menjalankan _critical section_ pada satu waktu. |
 | [**Semaphores in Process Synchronization**](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) | Artikel ini membahas `semaphore` sebagai mekanisme sinkronisasi dalam ilmu komputer yang efektif dalam mengatur akses proses terhadap sumber daya bersama melalui dua operasi fundamental, yaitu `P (Wait)` dan `V (Signal)`, serta mengeksplorasi kelebihan, kekurangan, dan contoh-contoh masalah klasik yang dapat dipecahkan dengan penerapan `semaphore`. |
