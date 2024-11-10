@@ -193,5 +193,9 @@ Playlist ini berisi rangkaian tutorial lengkap mengenai sinkronisasi proses di s
 2. [**Deadlock - Operating System**](https://youtube.com/playlist?list=PLKvlVXf2hXAPrRXE_B8LWW25r5DJVe7Yv&feature=shared)<br>
 Playlist ini berisi video tentang konsep deadlock pada sistem operasi, syarat terjadinya `deadlock`, pencegahan, dan pendekatan untuk menghindari `deadlock`.
 
-
+| Topik | Tipe | Penjelasan |
+|:--:|:--:|--|
+| [Linux Crash Course - nano (command-line text editor)](https://youtu.be/DLeATFgGM-A?si=H9MyI6jU5_xhYu7H) | Video | Tutorial dasar dalam menggunakan nano (command-line text editor). Menurut saya, nano adalah command-line text editor yang cocok untuk pemula. |
+| [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | Artikel | Referensi dalam menggunakan sintaks Markdown. |
+| [Vim Cheatsheet](https://vim.rtorr.com/) | Artikel | Referensi dalam menggunakan sintaks Vim. |
 #### REV: Mon 05 Nov 2024 00:50
