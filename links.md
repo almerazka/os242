@@ -5,6 +5,7 @@ permalink: LINKS/
 # LINKS
 
 ## WEEK 00 🍟
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**OS242**](https://os.vlsm.org/) | Website OS |
@@ -25,6 +26,7 @@ Video tutorial tentang cara menggunakan `nano`, editor teks dasar di Linux.
 Video yang menjelaskan bagaimana sistem operasi mengelola perangkat keras, alokasi sumber daya, serta memberikan antarmuka untuk pengguna. 
 
 ## WEEK 01 🍔
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**Vim Cheatsheet**](https://vim.rtorr.com/) | Referensi dalam menggunakan sintaks Vim. |
@@ -50,6 +52,7 @@ Video yang menjelaskan alasan mengapa menggunakan Vim bisa meningkatkan produkti
 Video ini memberikan pengantar singkat tentang `regular expressions (regex)`, mencakup dasar-dasar seperti sintaks, cara membuat pola, dan contoh penggunaannya dalam mencari dan mengganti teks. Cocok untuk pemula yang ingin memahami regex dengan cepat.
 
 ## WEEK 02 🍿
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**SSH Tutorial**](https://www.niagahoster.co.id/blog/apa-itu-ssh/) | Artikel ini berisi tutorial yang menjelaskan tentang apa itu `SSH` dan bagaimana cara kerjanya.  |
@@ -77,6 +80,7 @@ Video ini menjelaskan perbedaan antara enkripsi _simetris_ dan enkripsi _asimetr
 Video ini menjelaskan cara menggunakan perintah `chmod` untuk mengubah izin pada sistem file Linux. 
 
 ## WEEK 03 🍡
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**Memory Management**](https://www.geeksforgeeks.org/memory-management-in-operating-system/) | Artikel ini berisi penjelasan tentang manajemen memori dalam sistem operasi, termasuk jenis memori, teknik alokasi, dan cara mengatasi fragmentasi. |
@@ -103,6 +107,7 @@ Video ini membahas cara kerja berkas komputer dan sistem berkas, menjelaskan ber
 Tutorial ini menjelaskan langkah-langkah untuk membuat cadangan dan memulihkan mesin virtual di VirtualBox dengan menggunakan opsi _ekspor_ untuk menyimpan file `OVA` dan _mengimpor_ kembali file tersebut untuk mengembalikan sistem ke keadaan sebelumnya.
 
 ## WEEK 04 🍭
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**History of C Language**](https://www.javatpoint.com/history-of-c-language) | Tutorial ini menguraikan `konsep-konsep` penting `bahasa C` secara menyeluruh. |
@@ -128,6 +133,7 @@ Video ini membahas keuntungan dan kerugian dari menggunakan `pointer` sebagai ar
 Video ini menjelaskan virtual memory sebagai lapisan `indirection` yang memetakan alamat program ke  `RAM`, memberikan fleksibilitas dan keamanan serta mengatasi keterbatasan ruang memori dengan menggunakan `disk`.
 
 ## WEEK 05 🍫
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**Virtual Memory in OS**](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) | Artikel ini menjelaskan tentang `teknik manajemen memori` yang menggunakan penyimpanan sekunder untuk memperluas memori fisik. |
@@ -153,6 +159,7 @@ Video ini berisi penjelasan tentang `peran memori` dalam komputer, termasuk `jen
 Video ini menjelaskan proses `translasi alamat virtual ke alamat fisik` dalam memori komputer, di mana alamat virtual dibagi menjadi _offset_  halaman dan _nomor_ halaman virtual yang digunakan untuk mengakses tabel halaman dan menghasilkan alamat fisik.
 
 ## WEEK 06 🍨
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**OS Process**](https://www.tutorialspoint.com/operating_system/os_processes.htm) | Artikel ini menjelaskan bahwa Process adalah program yang sedang dieksekusi, dengan komponen utama seperti _stack_, _heap_, _text_, dan _data_. |
@@ -176,6 +183,7 @@ Video ini berisi penjelasan tentang sistem call `fork` dan `exec` pada _Linux_, 
 Video ini membahas masalah yang muncul dengan sistem panggilan `fork` dan `exec` dalam pemrograman _multi-threading_, serta menjelaskan kapan sebaiknya menggunakan masing-masing versi `fork`.
 
 ## WEEK 07 🥩
+
 | Topik | Penjelasan |
 |:--------------------------------|------------------------------------------------------------------------------------------------------|
 | [**Introduction of Process Synchronization**](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) | Artikel ini menjelaskan pentingnya sinkronisasi proses dalam sistem multiproses untuk menghindari kondisi persaingan dan memastikan akses yang aman terhadap sumber daya bersama menggunakan teknik seperti _semaphore_ dan _critical section_. |
@@ -193,5 +201,26 @@ Playlist ini berisi rangkaian tutorial lengkap mengenai sinkronisasi proses di s
 2. [**Deadlock - Operating System**](https://youtube.com/playlist?list=PLKvlVXf2hXAPrRXE_B8LWW25r5DJVe7Yv&feature=shared)<br>
 Playlist ini berisi video tentang konsep deadlock pada sistem operasi, syarat terjadinya `deadlock`, pencegahan, dan pendekatan untuk menghindari `deadlock`.
 
+## WEEK 08 🧀
 
-#### REV: Mon 05 Nov 2024 00:50
+| Topik | Penjelasan |
+|:---|:---|
+| [**CPU Scheduling in Operating Systems**](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) | Artikel ini menjelaskan tentang CPU scheduling dalam sistem operasi, yang mencakup berbagai algoritma penjadwalan seperti `FCFS`, `SJF`, dan `Round Robin` untuk mengalokasikan waktu CPU secara efisien, serta evaluasi kinerja menggunakan metrik seperti _turnaround time_ dan _waiting time_. |
+| [**CPU Scheduling Criteria**](https://www.geeksforgeeks.org/cpu-scheduling-criteria/) | Artikel ini menjelaskan tentang kriteria CPU scheduling, termasuk _CPU utilization_, _throughput_, _turnaround time_, waiting time, _response time_, _completion time_, dan _priority_, yang digunakan untuk menentukan algoritma penjadwalan yang efisien. |
+| [**Thread Scheduling**](https://www.geeksforgeeks.org/thread-scheduling/) | Artikel ini membahas tentang penjadwalan thread, termasuk konsep `Lightweight Process (LWP)`, kontenksi proses, dan domain alokasi, serta perbedaan antara `Process Contention Scope (PCS)` dan `System Contention Scope (SCS)`. |
+| [**Multiple-Processor Scheduling in Operating System**](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) | Artikel ini membahas tentang penjadwalan CPU pada sistem multiprosesor, yang mencakup konsep-konsep seperti _affinity prosesor_, pembagian beban, dan penggunaan prosesor multicore. |
+
+1. [**Linux From Scratch 12.1**](https://youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX&feature=shared)<br>
+Playlist ini menyajikan serangkaian video tutorial yang menjelaskan secara mendalam mengenai buku _Linux From Scratch 12.1_.
+
+2. [**Linux From Scratch 12.2**](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&feature=shared)<br>
+Playlist ini menyajikan serangkaian video tutorial yang menjelaskan secara mendalam mengenai buku _Linux From Scratch 12.2_.
+
+3. [**LFS Book for VirtualBox**](https://www.linuxfromscratch.org/lfs/view/12.2/)<br>
+Artikel ini membahas tentang penggunaan _Linux From Scratch (LFS)_ dengan VirtualBox
+
+4. [**LFS Book for UTM**](https://lfs.vlsm.org/arm64/)<br>
+Artikel ini membahas tentang penggunaan _Linux From Scratch (LFS)_ dengan UTM
+
+
+#### REV: Tue 12 Nov 2024 17.45
