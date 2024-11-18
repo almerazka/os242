@@ -1,3 +1,7 @@
+---
+permalink: TIPS/
+---
+
 # Tips for the Next Generation
 
 ## 1. Start Early  
