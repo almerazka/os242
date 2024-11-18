@@ -201,7 +201,7 @@ Playlist ini berisi rangkaian tutorial lengkap mengenai sinkronisasi proses di s
 2. [**Deadlock - Operating System**](https://youtube.com/playlist?list=PLKvlVXf2hXAPrRXE_B8LWW25r5DJVe7Yv&feature=shared)<br>
 Playlist ini berisi video tentang konsep deadlock pada sistem operasi, syarat terjadinya `deadlock`, pencegahan, dan pendekatan untuk menghindari `deadlock`.
 
-## WEEK 08 🧀
+## WEEK 08 & WEEK 09 🧀
 
 | Topik | Penjelasan |
 |:---|:---|
@@ -223,4 +223,4 @@ Artikel ini membahas tentang penggunaan _Linux From Scratch (LFS)_ dengan Virtua
 Artikel ini membahas tentang penggunaan _Linux From Scratch (LFS)_ dengan UTM
 
 
-#### REV: Tue 12 Nov 2024 17.58
+#### REV: Tue 18 Nov 2024 12.10
